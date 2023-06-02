@@ -1,0 +1,11 @@
+{
+    "name": "SparkleAny",
+    "version": "1.0",
+    "description": "An extension to analyze text with AI",
+    "permissions": ["activeTab", "contextMenus"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}
